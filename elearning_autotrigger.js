@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Elearning login autotrigger
+// @name        Elearning autotrigger authentication
 // @namespace   https://elearning.tul.cz/
 // @include     https://elearning.tul.cz/*
 // @version     1
