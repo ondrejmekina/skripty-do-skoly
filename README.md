@@ -1,4 +1,5 @@
 # Skripty do školy
+<!-- Moje skripty na ulehčení přihlašování -->
 
 ### Jak na instalaci
 1. Je potřeba mít nainstalovaný plugin GreaseMonkey: <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/</a> (pro TamperMonkey jsem skripty netestoval)
